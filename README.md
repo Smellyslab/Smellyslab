@@ -18,5 +18,5 @@ Smellyslab/Smellyslab is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smellyslab&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smellyslab&theme=monokai)
 
