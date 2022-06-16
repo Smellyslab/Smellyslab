@@ -33,4 +33,4 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://gpvc.arturio.dev/Smellyslab)]
+![](https://gpvc.arturio.dev/Smellyslab)
